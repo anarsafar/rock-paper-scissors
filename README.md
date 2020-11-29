@@ -10,4 +10,4 @@ The objective of this JavaScript Rock, Paper, Scissors game is to make a simple 
 <img width="960" alt="Screenshot 2020-11-29 161724" src="https://user-images.githubusercontent.com/72983747/100541601-79fefa00-325e-11eb-81e5-f30e788105b4.png">
 
 ## Live Demo
-[rock-paper-scissors-demo]()
+[rock-paper-scissors-demo](https://anarseferrov.github.io/rock-paper-scissors/)
